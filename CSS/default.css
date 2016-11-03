@@ -1,0 +1,32 @@
+/*Author: Ryan Seguin
+Date: November 11, 2016*/
+
+body{
+	background-color: #668cff;
+	margin: 0;
+	overflow-x: hidden;
+}
+header {
+    background-color: #668cff;
+	color: #FFFFFF;
+}
+
+div.about{
+	background-color: #dee0ff;
+	color: #4d58ff;
+}
+
+div.projects{
+	background-color: #668cff;
+	color: #FFFFFF;
+}
+
+div.links{
+	background-color: #dee0ff;
+	color:#4d58ff;
+}
+
+footer{
+	background-color: #000000;
+	color:#FFFFFF
+}
